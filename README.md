@@ -27,3 +27,6 @@
 ##STATUS DE AGUARDANDO ATENDIMENTO: Assim que o chamado for aberto, ele deverá estar em status "aguardando", até que um membro da triagem acesse a conversa e inicie o atendimento.
 
 #REPOSITÓRIO DE TESTE PARA O SISTEMA DO SIGEPS
+
+
+Instalação de todas dependencia -> npm install axios@^1.7.7 firebase@^10.13.2 react@^18.3.1 react-dom@^18.3.1 react-router-dom@^6.26.2 sass@^1.79.3 socket.io-client@^4.7.5 uuid@^10.0.0
